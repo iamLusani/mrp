@@ -1,0 +1,34 @@
+.sectionA {
+  background-color: #f9f9fb;
+  max-width: 100%;
+  height: 100px;
+}
+
+.sectionA img {
+  width: 230px;
+  height: 100px;
+  padding-left: 30px;
+}
+
+.sectionA form {
+  position: relative;
+  left: 100px;
+}
+
+.sectionA form input {
+  padding: 12px;
+  width: 500px;
+  border-color: rgb(247, 232, 232);
+  caret: 40px;
+}
+.sectionA form i {
+  position: relative;
+  left: 30px;
+}
+
+.sectionA .icons i {
+  position: relative;
+  left: 400px;
+  font-size: 30px;
+  padding: 5px;
+}
